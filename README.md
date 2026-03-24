@@ -3,8 +3,8 @@ An insightful and highly proficient Senior Data Analyst known for generating cle
 
 💎 **Top 3 skills**: Analytical thinking, SQL, and data visualization
 
-- 🌱 I'm currently learning about n8n
-- 🔭 I'm currently working on credit card fraud prediction project to improve my 🐍 Python skills
+- 🌱 I'm currently learning about gen AI
+- 🔭 I'm currently pursuing Gen AI certification from Google. Will update here if I made it through the program!
 
 🛠️ **Tech Stack**
 - Languages: SQL (Google BigQuery, AWS Athena Trino), Python.
